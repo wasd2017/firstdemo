@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+#c1{
+   
+    background-color:white;
+    background-position: 0% 0%;
+    background-repeat: repeat;
+    background-origin: padding-box;
+    background-size: auto auto;
+    border-color: rgb(0, 0, 0);
+    position: fixed;
+    left: 0px;
+    top: 30%;
+    vertical-align: baseline;
+}
+
+#t1,#t2,#t3,#t4,#t5,#t6,#t7,#t8{
+    border: 0;
+}
+#t1,#t2,#t3,#t4,#t5,#t6,#t7{
+    width: 48px;
+    height: 48px;
+}
+#t1{
+    background-color: rgb(59, 89, 152);
+}
+#t2{
+    background-color: rgb(29, 161, 242);
+}
+#t3{
+    background-color: rgb(0, 119, 181);
+}
+#t4{
+    background-color: rgb(220, 78, 65);
+}
+#t5{
+    background-color: rgb(203, 32, 39);
+}
+#t6{
+    background-color: rgb(132, 132, 132);
+}
+#t7{
+    background-color: rgb(115, 138, 141);
+}
+
+#t8{
+    width: 48px;
+    height: 20px;
+    border-color: rgb(0, 0, 0);
+}
+.h1{
+    width: 20px;
+    height: 20px;
+    background: url(./img/index.png) 0px 0px no-repeat;
+}
