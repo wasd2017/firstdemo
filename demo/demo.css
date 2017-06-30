@@ -49,6 +49,7 @@ svg {
 
 #t1:hover {
     width: 65px;
+    height: 65px;
 }
 
 #t2 {
@@ -57,6 +58,7 @@ svg {
 
 #t2:hover {
     width: 65px;
+    height: 65px;
 }
 
 #t3 {
@@ -65,6 +67,7 @@ svg {
 
 #t3:hover {
     width: 65px;
+    height: 65px;
 }
 
 #t4 {
@@ -73,6 +76,7 @@ svg {
 
 #t4:hover {
     width: 65px;
+    height: 65px;
 }
 
 #t5 {
@@ -81,6 +85,7 @@ svg {
 
 #t5:hover {
     width: 65px;
+    height: 65px;
 }
 
 #t6 {
@@ -89,6 +94,7 @@ svg {
 
 #t6:hover {
     width: 65px;
+    height: 65px;
 }
 
 #t7 {
@@ -97,6 +103,7 @@ svg {
 
 #t7:hover {
     width: 65px;
+    height: 65px;
 }
 
 #t8 {
@@ -105,7 +112,7 @@ svg {
     border-color: rgb(0, 0, 0);
     position: fixed;
     left: 0;
-    top: 75%;
+    /*top: 75%;*/
 }
 
 .h1 {
